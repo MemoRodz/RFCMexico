@@ -1,0 +1,11 @@
+C:\Users\ultra\Downloads\Proyectos\WinForms\RFCMexico\CrearRFC\ObtenRFC\bin\Debug\net6.0\ObtenRFC.deps.json
+C:\Users\ultra\Downloads\Proyectos\WinForms\RFCMexico\CrearRFC\ObtenRFC\bin\Debug\net6.0\ObtenRFC.dll
+C:\Users\ultra\Downloads\Proyectos\WinForms\RFCMexico\CrearRFC\ObtenRFC\bin\Debug\net6.0\ObtenRFC.pdb
+C:\Users\ultra\Downloads\Proyectos\WinForms\RFCMexico\CrearRFC\ObtenRFC\obj\Debug\net6.0\ObtenRFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ultra\Downloads\Proyectos\WinForms\RFCMexico\CrearRFC\ObtenRFC\obj\Debug\net6.0\ObtenRFC.AssemblyInfoInputs.cache
+C:\Users\ultra\Downloads\Proyectos\WinForms\RFCMexico\CrearRFC\ObtenRFC\obj\Debug\net6.0\ObtenRFC.AssemblyInfo.cs
+C:\Users\ultra\Downloads\Proyectos\WinForms\RFCMexico\CrearRFC\ObtenRFC\obj\Debug\net6.0\ObtenRFC.csproj.CoreCompileInputs.cache
+C:\Users\ultra\Downloads\Proyectos\WinForms\RFCMexico\CrearRFC\ObtenRFC\obj\Debug\net6.0\ObtenRFC.dll
+C:\Users\ultra\Downloads\Proyectos\WinForms\RFCMexico\CrearRFC\ObtenRFC\obj\Debug\net6.0\refint\ObtenRFC.dll
+C:\Users\ultra\Downloads\Proyectos\WinForms\RFCMexico\CrearRFC\ObtenRFC\obj\Debug\net6.0\ObtenRFC.pdb
+C:\Users\ultra\Downloads\Proyectos\WinForms\RFCMexico\CrearRFC\ObtenRFC\obj\Debug\net6.0\ref\ObtenRFC.dll

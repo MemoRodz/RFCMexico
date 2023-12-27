@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RFCTest/1.0.0": {
+        "dependencies": {
+          "ObtenRFC": "1.0.0"
+        },
+        "runtime": {
+          "RFCTest.dll": {}
+        }
+      },
+      "ObtenRFC/1.0.0": {
+        "runtime": {
+          "ObtenRFC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RFCTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ObtenRFC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
